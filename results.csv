@@ -1,0 +1,91 @@
+,sentence,option1,option2,answer,chatgpt
+0,Sarah was a much better surgeon than Maria so _ always got the easier cases.,Sarah,Maria,2,1
+1,Sarah was a much better surgeon than Maria so _ always got the harder cases.,Sarah,Maria,1,2
+2,"They were worried the wine would ruin the bed and the blanket, but the _ was't ruined.",blanket,bed,2,1
+3,Terry tried to bake the eggplant in the toaster oven but the _ was too big.,eggplant,toaster,1,1
+4,"At night, Jeffrey always stays up later than Hunter to watch TV because _ wakes up late.",Jeffrey,Hunter,1,2
+5,"The cat of Sarah has some mouth problems, so she takes it to see Maria. _ is a responsible cat owner.",Sarah,Maria,1,1
+6,The home that my parents had when I was in school was a lot nicer than my house now because the _ was sophisticated.,home,house,1,1
+7,The home that my parents had when I was in school was a lot nicer than my house now because the _ is trashy.,home,house,2,2
+8,"Natalie has a rich husband and lots of money, Jennifer is poor _ needs to make her clothes.",Natalie,Jennifer,2,2
+9,Joe immediately went to bakery before the bank because the _ had a limited supply of what he wanted.,bakery,bank,1,1
+10,Joe immediately went to bakery before the bank because the _ had a substantial supply of what he wanted.,bakery,bank,2,2
+11,"I had to read an entire story for class tomorrow. Luckily, the _ was canceled.",story,class,2,2
+12,"I had to read an entire story for class tomorrow. Luckily, the _ was short.",story,class,1,1
+13,He had enough time between classes to go to a cafe or to the library. He went to the _ because his paper could wait.,cafe,library,1,1
+14,He had enough time between classes to go to a cafe or to the library. He went to the _ because his paper was due soon.,cafe,library,2,2
+15,Lindsey like to read graphic novels but Natalie liked classic literature to read. _ bought the new Frank Miller comic at the book store.,Lindsey,Natalie,1,1
+16,Michael just bought brand new wheels for his truck unlike Leslie because _ wheels were new and perfect.,Michael,Leslie,2,1
+17,Michael just bought brand new wheels for his truck unlike Leslie because _ wheels were old and used.,Michael,Leslie,1,2
+18,"Leslie was nervous around parrots but Neil was not, since _ was bitten by a bird early in life.",Leslie,Neil,1,2
+19,Christmas was a special holiday to Eric but not Adam since _ was a Jew.,Eric,Adam,2,2
+20,To make frosting I needed pudding that was at a store 15 minutes away but pre-made frosting was at a store 5 minutes away.  The _ was closer.,pudding,frosting,2,2
+21,Benjamin was chosen instead of Brett to be the makeup artist for the play because _ was less experienced.,Benjamin,Brett,2,2
+22,"Cynthia violated the rights of Amy, because _ had too much passivity with other people.",Cynthia,Amy,2,2
+23,"They had to eat a lot to gain the strength they had lost and be able to work, the _ was too much.",work,strength,1,2
+24,"They had to eat a lot to gain the strength they had lost and be able to work, the _ was too little.",work,strength,2,1
+25,"The roof of Rachel's home is old and falling apart, while Betty's is new. The home value of _ is lower.",Rachel,Betty,1,1
+26,All the clutter in the house excited Leslie but not Derrick because cleaning energized _ very much.,Leslie,Derrick,1,2
+27,The portions of food today were bigger than the sizes yesterday because the _ fed more people.,portions,sizes,1,2
+28,"Since Craig threw aluminum cans in the trash and Benjamin recycled, _ was environmentally irresponsible.",Craig,Benjamin,1,1
+29,"Christine was going to Jessica's house to do some cleaning in the kitchen, because _ was a energetic person.",Christine,Jessica,1,1
+30,"The students were at their desks taking tests with pencils, they used the _ to hold the papers.",desks,pencils,1,1
+31,Mary thought poodles were a cool dog but Rachel thought Great Danes were cooler. _ bought a small dog bed for their pet.,Mary,Rachel,1,1
+32,Mary thought poodles were a cool dog but Rachel thought Great Danes were cooler. _ bought a gigantic dog bed for their pet.,Mary,Rachel,2,2
+33,"Leslie had a lot of issues that Kyle was tired of dealing with, so _ felt abandoned when they finally moved out.",Leslie,Kyle,1,1
+34,"Jessica enjoyed a simple, basic life with Betty, but _ was bored having a quiet existence.",Jessica,Betty,2,2
+35,I wanted to build a bathroom on the third floor of the house but I couldn't because the _ would be too full.,bathroom,floor,2,2
+36,Joel researched laws and helped to open a preschool for Eric. Because _ is very good with kids.,Joel,Eric,2,2
+37,"Tanya told Emily she couldn't come to work because her cat had an infection, but _ was lying.",Tanya,Emily,1,1
+38,"Angela thinks her husband might be cheating with Lindsey, and _ confesses at the dinner party.",Angela,Lindsey,2,2
+39,"Donald's understanding of math isn't as good as Joseph's, so _ is more likely a professor.",Donald,Joseph,2,2
+40,Brian was jealous of Brett's new car because _ couldn't afford to buy a new car.,Brian,Brett,1,1
+41,The man used  his eyes to read the letters but the _ were too small.,letters,eyes,1,2
+42,Jill was on a budget so she only bought a new dress for the ceremony and wore an old hat. She figured the _ would be less noticeable.,dress,hat,2,2
+43,Jill was on a budget so she only bought a new dress for the ceremony and wore an old hat. She figured the _ would be more noticeable.,dress,hat,1,1
+44,"On Monday, Patricia made Felicia eggs for an early breakfast, but _ does not like fried eggs.",Patricia,Felicia,2,2
+45,"Since Craig wears clear contacts and William wears colored ones, it is safe to assume that _ loves the color of their eyes.",Craig,William,1,2
+46,"Since Craig wears clear contacts and William wears colored ones, it is safe to assume that _ dislikes the color of their eyes.",Craig,William,2,1
+47,It was easy for Angela to become a vegetarian although Kayla couldn't do it. _ really missed the taste of chicken.,Angela,Kayla,2,2
+48,Hunter was a better baker than Logan so _ made the kitchen a mess when they tried to make an apple pie.,Hunter,Logan,2,2
+49,Tanya spent more on the children's birthday party than Amy. _ thought a magician was a good use of funds.,Tanya,Amy,1,1
+50,Judy bought new brushes to paint the etched glasses crack but it didn't fit. The _ was too wide.,brush,crack,1,Option1 : brush
+51,Judy bought new brushes to paint the etched glasses crack but it didn't fit. The _ was too narrow.,brush,crack,2,Option1: brush
+52,I look forward to the Sunday newspaper so I can look at the comics.  This is the only reason I still get the _ in this day and age.,newspaper,comics,1,Option1: newspaper
+53,Jennifer was more of a morning person than Natalie although _ always went to bed early and got a good night's rest.,Jennifer,Natalie,2,Option1 : Jennifer
+54,Jennifer was more of a morning person than Natalie because _ always went to bed early and got a good night's rest.,Jennifer,Natalie,1,Option2: Natalie
+55,"Alcohol is a love of Matthew's, but Ryan can't stand the stuff because _ is a sober alcoholic.",Matthew,Ryan,2,Option2: Ryan
+56,Joe brought the horse out to the country quite a distance and gave him food but the _ was too much.,food,distance,2,Option1 : food
+57,"Randy gave their heart to Brian, and _ soon told them that they should have kept their heart to themselves.",Randy,Brian,2,Option1 : Randy
+58,"Nick wanted to play a game on the floor, but Dennis was hesitant because of his knees. _ was disappointed.",Nick,Dennis,1,Option1: Nick
+59,"Although she was being prosecuted, Monica was welcomed into the sanctuary of the church by Samantha because _ was a sinful criminal.",Monica,Samantha,1,Option1 : Monica
+60,"The battle was less fierce than the great war, because the _ lasted one year.",battle,war,2,Option2 : war
+61,"Laura used too much super glue on Erins hands, so _ needed to get to the doctor to separate their hands.",Laura,Erin,2,Option2 : Erin
+62,James panicked when his phone fell on the table thinking it will break but the _ is soft.,phone,table,2,Option2: table
+63,James panicked when his phone fell on the table thinking it will break but the _ is strong.,phone,table,1,Option2: table
+64,John cannot touch the cup as it was just brought out of the refrigerator. He wanted some air to blow around it. The _ is very warm.,cup,air,2,Option1 : cup
+65,The fireman used several rags to polish the nozzles on the fire hose; when he was done the _ were dirty.,nozzles,rags,2,Option2 : rags
+66,"Mary wanted to get another piercing in her ear, but the _ was much too tiny.",ear,piercing,1,Option1: ear
+67,"Mary wanted to get another piercing in her ear, but the _ was much too huge.",ear,piercing,2,Option1 : ear
+68,Laura just loved the taste of green beans but Felicia hated the taste of them. _ didn't have a second serving.,Laura,Felicia,2,Option2: Felicia
+69,The bartender cut Carrie off but continued to serve Emily because _ was too drunk.,Carrie,Emily,1,Option1: Carrie
+70,Blaze always wore a t-shirt instead of a shirt because he thought that the _ was stuffy and old fashioned.,shirt,t-shirt,1,Option2 : t-shirt
+71,"The paint would melt in the sun, so we used a varnish instead, since the _ was susceptible to heat.",paint,varnish,1,Option1 : paint
+72,"I tried to make mini lamps by using glow sticks in mason jars, but had to get larger jars because the _ were too big.",glow sticks,jars,1,Option2 : jars
+73,Joel always liked to turn the heater up higher than Joseph did for the reason that _ was never cold.,Joel,Joseph,2,Option1: Joel
+74,Joel always liked to turn the heater up higher than Joseph did for the reason that _ was always cold.,Joel,Joseph,1,1
+75,The teen found the new hat was no substitute for his cool shirt.  The _ was just cool to wear to school.,hat,shirt,2,Option2: shirt
+76,Mary was helping Patricia's daughter put on makeup but  _ watches a lot of makeup tutorials.,Mary,Patricia,2,Option1 : Mary
+77,Mary was helping Patricia's daughter put on makeup because _ watches a lot of makeup tutorials.,Mary,Patricia,1,Option1: Mary
+78,"He wanted to kill time at the house instead of the playground, because everyone at the _ was fun.",playground,house,2,Option1: playground
+79,"Aaron didn't know Dennis had a peanut allergy, so when _ made peanut chicken an ambulance was called.",Aaron,Dennis,1,Option1 : Aaron
+80,"Aaron didn't know Dennis had a peanut allergy, so when _ ate peanut chicken an ambulance was called.",Aaron,Dennis,2,Option2: Dennis
+81,"God liked to control the day and the night, but the _ was too bright.",day,night,1,Option1 : day
+82,"Brett asked Joel for advice and guidance about waxing his mustache, and afterwards _ felt burdened.",Brett,Joel,2,Option1: Brett
+83,The filter in the living room needed to be changed more often than the one in the bedroom because the _ was dirtier.,living room,bedroom,1,Option1 : living room
+84,The filter in the living room needed to be changed more often than the one in the bedroom because the _ was cleaner.,living room,bedroom,2,1
+85,Amy went over to the waiting room at the hospital to calm Samantha because _ was placid.,Amy,Samantha,1,Option1 : Amy
+86,Megan forgot to buy deodorant at the store so they borrowed Jessica's deodorant and _ never found out.,Megan,Jessica,2,Option 1: Megan
+87,Megan forgot to buy deodorant at the store so they borrowed Jessica's deodorant and _ hoped they never found out.,Megan,Jessica,1,Option1 : Megan
+88,"Amy thought she was the mirror image of Natalie , but _ could not be convinced to see the similarity.",Amy,Natalie,2,Option1 : Amy
+89,"Amy thought she was the mirror image of Natalie , but _ could not persuade her to see the similarity.",Amy,Natalie,1,Option1 : Amy
