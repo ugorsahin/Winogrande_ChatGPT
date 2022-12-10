@@ -7,19 +7,17 @@ Sometimes the model answers like **Option1: Answer**, and sometimes it only resp
 I decided to ask model to explain the answers. You can find the explanations in the dataframe.
 
 Here is the generic text:
-
-"""Choose the option that is a better fit for the gap in the sentence.\
- The answer should be in following form:
 ```
+Choose the option that is a better fit for the gap in the sentence. The answer should be in following form:
+'''
  OptionX
- Explanation: ....
-```
+ Explanation: ...
+'''
 Sentence : {}
     
 Option1 : {}
 Option2 : {}
-"""
-
+```
 The accuracy over 310 samples: %68.04
 
 
