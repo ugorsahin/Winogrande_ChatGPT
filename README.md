@@ -32,3 +32,13 @@ Option1 : {}
 Option2 : {}
 ```
 I will update this page regularly.
+
+Citation to the author's paper
+```
+@InProceedings{ai2:winogrande,
+title = {WinoGrande: An Adversarial Winograd Schema Challenge at Scale},
+authors={Keisuke, Sakaguchi and Ronan, Le Bras and Chandra, Bhagavatula and Yejin, Choi
+},
+year={2019}
+}
+```
