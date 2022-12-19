@@ -1,9 +1,9 @@
-# Winogrande_CHATGPT
+# Winogrande_ChatGPT
 The evaluation of Winogrande Debiased Validation set on ChatGPT
 
 
-So far I could found the chance to ask for 703 samples and hit the limits. I will continue whenever I have access again.
-### The accuracy over 703 samples: %64.01
+I finished the whole 1267 samples.
+### The accuracy over 1267 samples: %62.75
 
 
 Sometimes the model answers like **Option1: Answer**, and sometimes it only responds with a single number.
